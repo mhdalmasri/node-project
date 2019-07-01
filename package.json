@@ -1,0 +1,17 @@
+{
+  "name": "node-project",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js --",
+    "start": "node index.js"
+  },
+  "author": "mohamad almasri <m.almasri@outlook.de> (malmasri.info)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {}
+}
